@@ -1,5 +1,5 @@
 # Uncertainty-Quantification-for-Classification
-RnD Project under Prof. Amit Sethi\\
+RnD Project under Prof. Amit Sethi\
 Now a days, we all admit that we depend on AI models in
 one way or the other but how can we be sure that the solution
 AI model provides is correct or not, how much we can rely
